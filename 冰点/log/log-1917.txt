@@ -2209,3 +2209,450 @@
 13:43:44:AddExportPDFTask. size = 0, m_nExportTask = 0.
 13:43:47:AddExportPDFTask. size = 0, m_nExportTask = 0.
 13:43:50:end
+
+2019-01-14 10:26:24:E:\driver\冰点\Fish.exe-3.2.4-0525
+10:26:24:LoadUrlFile can't open url file. cUrlFile:E:\driver\冰点\kini\tkbatch.ini
+10:26:26:DownloadFile taskid = 2, nThreadId = 1, nIndex = 0, url = https://wenku.baidu.com/view/580613ebdd36a32d72758181.html
+10:26:26:DownloadFileCallBack url= https://wenku.baidu.com/view/580613ebdd36a32d72758181.html, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\580613ebdd36a32d72758181.html, nUncompress = 0
+10:26:26:status = 200, uTaskId = 2
+10:26:26:download begin, uTaskId = 2, content-length = 
+10:26:26:download close. nRecvLen = 45268, nReadLen = 0, uTaskId = 2
+10:26:27:encoding is gzip. uTaskId = 2, sSavePath:E:\driver\冰点\kdocin\580613ebdd36a32d72758181.html
+10:26:27:DownloadFile taskid = 2, nThreadId = 2, nIndex = 0, url = https://wkbjcloudbos.bdimg.com/v1/docconvert14//wk/2f9c243c5a1dbf379bdb6a6988864542/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Thu%2C%2028%20Feb%202019%2010%3A26%3A22%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-01-14T02%3A26%3A22Z%2F3600%2Fhost%2F80cc40e2aec9b60274a56ba51de96523086352d83f02cddc0fa0c709bacb7588&x-bce-range=0-7886&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU0NzQzNjM4MiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.bfEXHMZ2tzkgs5PMb%2BdetlBgtnEdLvYeVNZsoMlC%2BQ8%3D.1547436382
+10:26:27:DownloadFileCallBack url= https://wkbjcloudbos.bdimg.com/v1/docconvert14//wk/2f9c243c5a1dbf379bdb6a6988864542/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Thu%2C%2028%20Feb%202019%2010%3A26%3A22%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2019-01-14T02%3A26%3A22Z%2F3600%2Fhost%2F80cc40e2aec9b60274a56ba51de96523086352d83f02cddc0fa0c709bacb7588&x-bce-range=0-7886&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU0NzQzNjM4MiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.bfEXHMZ2tzkgs5PMb%2BdetlBgtnEdLvYeVNZsoMlC%2BQ8%3D.1547436382, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b1D2842BAB3001E4F06078D96D1876893_json, nUncompress = 0
+10:26:27:status = 206, uTaskId = 2
+10:26:27:download begin, uTaskId = 2, content-length = 7887
+10:26:27:download close. nRecvLen = 7887, nReadLen = 0, uTaskId = 2
+10:26:27:DownloadFile taskid = 2, nThreadId = 3, nIndex = 0, url = https://wenku.baidu.com/browse/getrequest?doc_id=580613ebdd36a32d72758181&pn=1&rn=50&type=ppt
+10:26:27:DownloadFileCallBack url= https://wenku.baidu.com/browse/getrequest?doc_id=580613ebdd36a32d72758181&pn=1&rn=50&type=ppt, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b1D2842BAB3001E4F06078D96D1876893_ppt_1.lst, nUncompress = 0
+10:26:27:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:27:AddExportPDFTask. i:0, status:105,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:27:in AddExportPDFTask. i equal size. i = 1.
+10:26:27:status = 200, uTaskId = 2
+10:26:27:download begin, uTaskId = 2, content-length = 
+10:26:27:download close. nRecvLen = 1362, nReadLen = 0, uTaskId = 2
+10:26:27:encoding is gzip. uTaskId = 2, sSavePath:E:\driver\冰点\kdocin\b1D2842BAB3001E4F06078D96D1876893_ppt_1.lst
+10:26:27:UpdateTaskStatus. status:-1, url:https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=1&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=0-151828&jpg=0-323093, m_sSavePath:E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_1.dat
+10:26:27:DownloadFile taskid = 2, nThreadId = 4, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=1&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=0-151828&jpg=0-323093
+10:26:27:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=1&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=0-151828&jpg=0-323093, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_1.dat, nUncompress = 0
+10:26:27:status = 200, uTaskId = 2
+10:26:27:download begin, uTaskId = 2, content-length = 323094
+10:26:28:download close. nRecvLen = 323094, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 5, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=2&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=151829-353920&jpg=323094-617163
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=2&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=151829-353920&jpg=323094-617163, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_2.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 294070
+10:26:28:download close. nRecvLen = 294070, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 6, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=3&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=353921-1191478&jpg=617164-920153
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=3&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=353921-1191478&jpg=617164-920153, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_3.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 302990
+10:26:28:download close. nRecvLen = 302990, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 7, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=4&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1191479-1575722&jpg=920154-1222003
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=4&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1191479-1575722&jpg=920154-1222003, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_4.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 301850
+10:26:28:download close. nRecvLen = 301850, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 8, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=5&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1575723-1845418&jpg=1222004-1501413
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=5&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1575723-1845418&jpg=1222004-1501413, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_5.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 279410
+10:26:28:download close. nRecvLen = 279410, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 9, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=6&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1845419-2249310&jpg=1501414-1861655
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=6&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=1845419-2249310&jpg=1501414-1861655, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_6.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 360242
+10:26:28:download close. nRecvLen = 360242, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 10, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=7&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2249311-2373380&jpg=1861656-2211090
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=7&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2249311-2373380&jpg=1861656-2211090, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_7.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 349435
+10:26:28:download close. nRecvLen = 349435, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 11, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=8&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2373381-2667123&jpg=2211091-2547026
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=8&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2373381-2667123&jpg=2211091-2547026, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_8.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 335936
+10:26:28:download close. nRecvLen = 335936, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 12, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=9&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2667124-2831359&jpg=2547027-2778137
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=9&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2667124-2831359&jpg=2547027-2778137, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_9.dat, nUncompress = 0
+10:26:28:ToAddBatchTasks nSize = 0
+10:26:28:AddBatchTasks batch task is done. nSize is zero
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 231111
+10:26:28:download close. nRecvLen = 231111, nReadLen = 0, uTaskId = 2
+10:26:28:DownloadFile taskid = 2, nThreadId = 13, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=10&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2831360-3126441&jpg=2778138-3127290
+10:26:28:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=10&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=2831360-3126441&jpg=2778138-3127290, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_10.dat, nUncompress = 0
+10:26:28:status = 200, uTaskId = 2
+10:26:28:download begin, uTaskId = 2, content-length = 349153
+10:26:29:download close. nRecvLen = 349153, nReadLen = 0, uTaskId = 2
+10:26:29:DownloadFile taskid = 2, nThreadId = 14, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=11&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3126442-3317677&jpg=3127291-3372019
+10:26:29:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=11&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3126442-3317677&jpg=3127291-3372019, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_11.dat, nUncompress = 0
+10:26:29:status = 200, uTaskId = 2
+10:26:29:download begin, uTaskId = 2, content-length = 244729
+10:26:29:download close. nRecvLen = 244729, nReadLen = 0, uTaskId = 2
+10:26:29:DownloadFile taskid = 2, nThreadId = 15, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=12&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3317678-3468126&jpg=3372020-3720173
+10:26:29:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=12&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3317678-3468126&jpg=3372020-3720173, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_12.dat, nUncompress = 0
+10:26:29:status = 200, uTaskId = 2
+10:26:29:download begin, uTaskId = 2, content-length = 348154
+10:26:29:download close. nRecvLen = 348154, nReadLen = 0, uTaskId = 2
+10:26:29:DownloadFile taskid = 2, nThreadId = 16, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=13&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3468127-3603516&jpg=3720174-4028620
+10:26:29:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=13&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3468127-3603516&jpg=3720174-4028620, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_13.dat, nUncompress = 0
+10:26:29:status = 200, uTaskId = 2
+10:26:29:download begin, uTaskId = 2, content-length = 308447
+10:26:30:download close. nRecvLen = 308447, nReadLen = 0, uTaskId = 2
+10:26:30:DownloadFile taskid = 2, nThreadId = 17, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=14&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3603517-4017926&jpg=4028621-4442356
+10:26:30:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=14&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=3603517-4017926&jpg=4028621-4442356, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_14.dat, nUncompress = 0
+10:26:30:status = 200, uTaskId = 2
+10:26:30:download begin, uTaskId = 2, content-length = 413736
+10:26:30:download close. nRecvLen = 413736, nReadLen = 0, uTaskId = 2
+10:26:30:DownloadFile taskid = 2, nThreadId = 18, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=15&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4017927-4309095&jpg=4442357-4842591
+10:26:30:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=15&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4017927-4309095&jpg=4442357-4842591, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_15.dat, nUncompress = 0
+10:26:30:status = 200, uTaskId = 2
+10:26:30:download begin, uTaskId = 2, content-length = 400235
+10:26:30:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:30:AddExportPDFTask. i:0, status:108,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:30:in AddExportPDFTask. i equal size. i = 1.
+10:26:30:download close. nRecvLen = 400235, nReadLen = 0, uTaskId = 2
+10:26:30:DownloadFile taskid = 2, nThreadId = 19, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=16&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4309096-4467743&jpg=4842592-5097214
+10:26:30:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=16&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4309096-4467743&jpg=4842592-5097214, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_16.dat, nUncompress = 0
+10:26:31:status = 200, uTaskId = 2
+10:26:31:download begin, uTaskId = 2, content-length = 254623
+10:26:31:download close. nRecvLen = 254623, nReadLen = 0, uTaskId = 2
+10:26:31:DownloadFile taskid = 2, nThreadId = 20, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=17&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4467744-4579909&jpg=5097215-5478432
+10:26:31:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=17&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4467744-4579909&jpg=5097215-5478432, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_17.dat, nUncompress = 0
+10:26:31:status = 200, uTaskId = 2
+10:26:31:download begin, uTaskId = 2, content-length = 381218
+10:26:31:download close. nRecvLen = 381218, nReadLen = 0, uTaskId = 2
+10:26:31:DownloadFile taskid = 2, nThreadId = 21, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=18&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4579910-4725675&jpg=5478433-5757515
+10:26:31:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=18&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4579910-4725675&jpg=5478433-5757515, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_18.dat, nUncompress = 0
+10:26:31:status = 200, uTaskId = 2
+10:26:31:download begin, uTaskId = 2, content-length = 279083
+10:26:31:download close. nRecvLen = 279083, nReadLen = 0, uTaskId = 2
+10:26:31:DownloadFile taskid = 2, nThreadId = 22, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=19&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4725676-4890785&jpg=5757516-6050273
+10:26:31:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=19&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4725676-4890785&jpg=5757516-6050273, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_19.dat, nUncompress = 0
+10:26:32:status = 200, uTaskId = 2
+10:26:32:download begin, uTaskId = 2, content-length = 292758
+10:26:32:download close. nRecvLen = 292758, nReadLen = 0, uTaskId = 2
+10:26:32:DownloadFile taskid = 2, nThreadId = 23, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=20&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4890786-5049952&jpg=6050274-6326207
+10:26:32:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=20&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=4890786-5049952&jpg=6050274-6326207, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_20.dat, nUncompress = 0
+10:26:32:status = 200, uTaskId = 2
+10:26:32:download begin, uTaskId = 2, content-length = 275934
+10:26:32:download close. nRecvLen = 275934, nReadLen = 0, uTaskId = 2
+10:26:32:DownloadFile taskid = 2, nThreadId = 24, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=21&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5049953-5201461&jpg=6326208-6577607
+10:26:32:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=21&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5049953-5201461&jpg=6326208-6577607, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_21.dat, nUncompress = 0
+10:26:32:status = 200, uTaskId = 2
+10:26:32:download begin, uTaskId = 2, content-length = 251400
+10:26:32:download close. nRecvLen = 251400, nReadLen = 0, uTaskId = 2
+10:26:32:DownloadFile taskid = 2, nThreadId = 25, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=22&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5201462-5357284&jpg=6577608-6857377
+10:26:32:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=22&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5201462-5357284&jpg=6577608-6857377, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_22.dat, nUncompress = 0
+10:26:33:status = 200, uTaskId = 2
+10:26:33:download begin, uTaskId = 2, content-length = 279770
+10:26:33:download close. nRecvLen = 279770, nReadLen = 0, uTaskId = 2
+10:26:33:DownloadFile taskid = 2, nThreadId = 26, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=23&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5357285-5510463&jpg=6857378-7137587
+10:26:33:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=23&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5357285-5510463&jpg=6857378-7137587, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_23.dat, nUncompress = 0
+10:26:33:status = 200, uTaskId = 2
+10:26:33:download begin, uTaskId = 2, content-length = 280210
+10:26:33:download close. nRecvLen = 280210, nReadLen = 0, uTaskId = 2
+10:26:33:DownloadFile taskid = 2, nThreadId = 27, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=24&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5510464-5663180&jpg=7137588-7406661
+10:26:33:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=24&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5510464-5663180&jpg=7137588-7406661, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_24.dat, nUncompress = 0
+10:26:33:status = 200, uTaskId = 2
+10:26:33:download begin, uTaskId = 2, content-length = 269074
+10:26:33:download close. nRecvLen = 269074, nReadLen = 0, uTaskId = 2
+10:26:33:DownloadFile taskid = 2, nThreadId = 28, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=25&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5663181-5875247&jpg=7406662-7744679
+10:26:33:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=25&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5663181-5875247&jpg=7406662-7744679, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_25.dat, nUncompress = 0
+10:26:33:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:33:AddExportPDFTask. i:0, status:108,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:33:in AddExportPDFTask. i equal size. i = 1.
+10:26:33:status = 200, uTaskId = 2
+10:26:33:download begin, uTaskId = 2, content-length = 338018
+10:26:33:download close. nRecvLen = 338018, nReadLen = 0, uTaskId = 2
+10:26:33:DownloadFile taskid = 2, nThreadId = 29, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=26&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5875248-6026714&jpg=7744680-8001083
+10:26:33:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=26&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=5875248-6026714&jpg=7744680-8001083, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_26.dat, nUncompress = 0
+10:26:34:status = 200, uTaskId = 2
+10:26:34:download begin, uTaskId = 2, content-length = 256404
+10:26:34:download close. nRecvLen = 256404, nReadLen = 0, uTaskId = 2
+10:26:34:DownloadFile taskid = 2, nThreadId = 30, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=27&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6026715-6198093&jpg=8001084-8260838
+10:26:34:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=27&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6026715-6198093&jpg=8001084-8260838, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_27.dat, nUncompress = 0
+10:26:34:status = 200, uTaskId = 2
+10:26:34:download begin, uTaskId = 2, content-length = 259755
+10:26:34:download close. nRecvLen = 259755, nReadLen = 0, uTaskId = 2
+10:26:34:DownloadFile taskid = 2, nThreadId = 31, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=28&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6198094-6350044&jpg=8260839-8530439
+10:26:34:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=28&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6198094-6350044&jpg=8260839-8530439, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_28.dat, nUncompress = 0
+10:26:35:status = 200, uTaskId = 2
+10:26:35:download begin, uTaskId = 2, content-length = 269601
+10:26:35:download close. nRecvLen = 269601, nReadLen = 0, uTaskId = 2
+10:26:35:DownloadFile taskid = 2, nThreadId = 32, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=29&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6350045-6509819&jpg=8530440-8791293
+10:26:35:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=29&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6350045-6509819&jpg=8530440-8791293, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_29.dat, nUncompress = 0
+10:26:35:status = 200, uTaskId = 2
+10:26:35:download begin, uTaskId = 2, content-length = 260854
+10:26:35:download close. nRecvLen = 260854, nReadLen = 0, uTaskId = 2
+10:26:35:DownloadFile taskid = 2, nThreadId = 33, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=30&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6509820-6680305&jpg=8791294-9095761
+10:26:35:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=30&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6509820-6680305&jpg=8791294-9095761, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_30.dat, nUncompress = 0
+10:26:35:status = 200, uTaskId = 2
+10:26:35:download begin, uTaskId = 2, content-length = 304468
+10:26:36:download close. nRecvLen = 304468, nReadLen = 0, uTaskId = 2
+10:26:36:DownloadFile taskid = 2, nThreadId = 34, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=31&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6680306-6852074&jpg=9095762-9379616
+10:26:36:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=31&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6680306-6852074&jpg=9095762-9379616, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_31.dat, nUncompress = 0
+10:26:36:status = 200, uTaskId = 2
+10:26:36:download begin, uTaskId = 2, content-length = 283855
+10:26:36:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:36:AddExportPDFTask. i:0, status:108,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:36:in AddExportPDFTask. i equal size. i = 1.
+10:26:36:download close. nRecvLen = 283855, nReadLen = 0, uTaskId = 2
+10:26:36:DownloadFile taskid = 2, nThreadId = 35, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=32&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6852075-6991180&jpg=9379617-9606463
+10:26:36:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=32&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6852075-6991180&jpg=9379617-9606463, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_32.dat, nUncompress = 0
+10:26:36:status = 200, uTaskId = 2
+10:26:36:download begin, uTaskId = 2, content-length = 226847
+10:26:36:download close. nRecvLen = 226847, nReadLen = 0, uTaskId = 2
+10:26:36:DownloadFile taskid = 2, nThreadId = 36, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=33&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6991181-7152364&jpg=9606464-9872008
+10:26:36:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=33&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=6991181-7152364&jpg=9606464-9872008, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_33.dat, nUncompress = 0
+10:26:37:status = 200, uTaskId = 2
+10:26:37:download begin, uTaskId = 2, content-length = 265545
+10:26:37:download close. nRecvLen = 265545, nReadLen = 0, uTaskId = 2
+10:26:37:DownloadFile taskid = 2, nThreadId = 37, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=34&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7152365-7314166&jpg=9872009-10118316
+10:26:37:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=34&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7152365-7314166&jpg=9872009-10118316, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_34.dat, nUncompress = 0
+10:26:37:status = 200, uTaskId = 2
+10:26:37:download begin, uTaskId = 2, content-length = 246308
+10:26:37:download close. nRecvLen = 246308, nReadLen = 0, uTaskId = 2
+10:26:37:DownloadFile taskid = 2, nThreadId = 38, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=35&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7314167-7445455&jpg=10118317-10315845
+10:26:37:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=35&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7314167-7445455&jpg=10118317-10315845, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_35.dat, nUncompress = 0
+10:26:38:status = 200, uTaskId = 2
+10:26:38:download begin, uTaskId = 2, content-length = 197529
+10:26:38:download close. nRecvLen = 197529, nReadLen = 0, uTaskId = 2
+10:26:38:DownloadFile taskid = 2, nThreadId = 39, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=36&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7445456-7587008&jpg=10315846-10590025
+10:26:38:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=36&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7445456-7587008&jpg=10315846-10590025, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_36.dat, nUncompress = 0
+10:26:38:status = 200, uTaskId = 2
+10:26:38:download begin, uTaskId = 2, content-length = 274180
+10:26:38:download close. nRecvLen = 274180, nReadLen = 0, uTaskId = 2
+10:26:38:DownloadFile taskid = 2, nThreadId = 40, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=37&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7587009-7794734&jpg=10590026-10923068
+10:26:38:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=37&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7587009-7794734&jpg=10590026-10923068, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_37.dat, nUncompress = 0
+10:26:38:status = 200, uTaskId = 2
+10:26:38:download begin, uTaskId = 2, content-length = 333043
+10:26:38:download close. nRecvLen = 333043, nReadLen = 0, uTaskId = 2
+10:26:38:DownloadFile taskid = 2, nThreadId = 41, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=38&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7794735-7940981&jpg=10923069-11196107
+10:26:38:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=38&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7794735-7940981&jpg=10923069-11196107, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_38.dat, nUncompress = 0
+10:26:39:status = 200, uTaskId = 2
+10:26:39:download begin, uTaskId = 2, content-length = 273039
+10:26:39:download close. nRecvLen = 273039, nReadLen = 0, uTaskId = 2
+10:26:39:DownloadFile taskid = 2, nThreadId = 42, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=39&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7940982-8064660&jpg=11196108-11477429
+10:26:39:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=39&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=7940982-8064660&jpg=11196108-11477429, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_39.dat, nUncompress = 0
+10:26:39:status = 200, uTaskId = 2
+10:26:39:download begin, uTaskId = 2, content-length = 281322
+10:26:39:download close. nRecvLen = 281322, nReadLen = 0, uTaskId = 2
+10:26:39:DownloadFile taskid = 2, nThreadId = 43, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=40&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8064661-8185296&jpg=11477430-11770073
+10:26:39:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=40&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8064661-8185296&jpg=11477430-11770073, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_40.dat, nUncompress = 0
+10:26:39:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:39:AddExportPDFTask. i:0, status:108,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:39:in AddExportPDFTask. i equal size. i = 1.
+10:26:39:status = 200, uTaskId = 2
+10:26:39:download begin, uTaskId = 2, content-length = 292644
+10:26:39:download close. nRecvLen = 292644, nReadLen = 0, uTaskId = 2
+10:26:39:DownloadFile taskid = 2, nThreadId = 44, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=41&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8185297-8314832&jpg=11770074-12080033
+10:26:39:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=41&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8185297-8314832&jpg=11770074-12080033, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_41.dat, nUncompress = 0
+10:26:40:status = 200, uTaskId = 2
+10:26:40:download begin, uTaskId = 2, content-length = 309960
+10:26:40:download close. nRecvLen = 309960, nReadLen = 0, uTaskId = 2
+10:26:40:DownloadFile taskid = 2, nThreadId = 45, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=42&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8314833-8435663&jpg=12080034-12338057
+10:26:40:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=42&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8314833-8435663&jpg=12080034-12338057, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_42.dat, nUncompress = 0
+10:26:40:status = 200, uTaskId = 2
+10:26:40:download begin, uTaskId = 2, content-length = 258024
+10:26:40:download close. nRecvLen = 258024, nReadLen = 0, uTaskId = 2
+10:26:40:DownloadFile taskid = 2, nThreadId = 46, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=43&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8435664-8556175&jpg=12338058-12622397
+10:26:40:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=43&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8435664-8556175&jpg=12338058-12622397, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_43.dat, nUncompress = 0
+10:26:40:status = 200, uTaskId = 2
+10:26:40:download begin, uTaskId = 2, content-length = 284340
+10:26:41:download close. nRecvLen = 284340, nReadLen = 0, uTaskId = 2
+10:26:41:DownloadFile taskid = 2, nThreadId = 47, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=44&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8556176-8892224&jpg=12622398-12913026
+10:26:41:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=44&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8556176-8892224&jpg=12622398-12913026, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_44.dat, nUncompress = 0
+10:26:41:status = 200, uTaskId = 2
+10:26:41:download begin, uTaskId = 2, content-length = 290629
+10:26:41:download close. nRecvLen = 290629, nReadLen = 0, uTaskId = 2
+10:26:41:DownloadFile taskid = 2, nThreadId = 48, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=45&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8892225-9200527&jpg=12913027-13283269
+10:26:41:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=45&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=8892225-9200527&jpg=12913027-13283269, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_45.dat, nUncompress = 0
+10:26:41:status = 200, uTaskId = 2
+10:26:41:download begin, uTaskId = 2, content-length = 370243
+10:26:42:download close. nRecvLen = 370243, nReadLen = 0, uTaskId = 2
+10:26:42:DownloadFile taskid = 2, nThreadId = 49, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=46&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=9200528-9590085&jpg=13283270-13694509
+10:26:42:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=46&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=9200528-9590085&jpg=13283270-13694509, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_46.dat, nUncompress = 0
+10:26:42:status = 200, uTaskId = 2
+10:26:42:download begin, uTaskId = 2, content-length = 411240
+10:26:42:download close. nRecvLen = 411240, nReadLen = 0, uTaskId = 2
+10:26:42:DownloadFile taskid = 2, nThreadId = 50, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=47&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=9590086-10099974&jpg=13694510-14022678
+10:26:42:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=47&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=9590086-10099974&jpg=13694510-14022678, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_47.dat, nUncompress = 0
+10:26:42:status = 200, uTaskId = 2
+10:26:42:download begin, uTaskId = 2, content-length = 328169
+10:26:42:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:42:AddExportPDFTask. i:0, status:108,downloadstatus:2,ListItem:0,畅洋科技能效管理解决方案
+10:26:42:in AddExportPDFTask. i equal size. i = 1.
+10:26:42:download close. nRecvLen = 328169, nReadLen = 0, uTaskId = 2
+10:26:42:DownloadFile taskid = 2, nThreadId = 51, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=48&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=10099975-10626941&jpg=14022679-14350640
+10:26:42:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=48&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=10099975-10626941&jpg=14022679-14350640, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_48.dat, nUncompress = 0
+10:26:42:status = 200, uTaskId = 2
+10:26:42:download begin, uTaskId = 2, content-length = 327962
+10:26:42:download close. nRecvLen = 327962, nReadLen = 0, uTaskId = 2
+10:26:42:DownloadFile taskid = 2, nThreadId = 52, nIndex = 0, url = https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=49&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=10626942-&jpg=14350641-
+10:26:42:DownloadFileCallBack url= https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=49&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=10626942-&jpg=14350641-, uerproxy = 0, method = 3, save = E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_49.dat, nUncompress = 0
+10:26:42:status = 200, uTaskId = 2
+10:26:42:download begin, uTaskId = 2, content-length = 330406
+10:26:42:download close. nRecvLen = 330406, nReadLen = 0, uTaskId = 2
+10:26:42:UpdateTaskStatus. status:-5, url:https://wkretype.bdimg.com/retype/zoom/edd860c526fff705cd170a0b?pn=49&o=jpg_6&md5sum=2f9c243c5a1dbf379bdb6a6988864542&sign=ef887e798d&png=10626942-&jpg=14350641-, m_sSavePath:E:\driver\冰点\kdocin\b_580613ebdd36a32d72758181_49.dat
+10:26:42:AddExportPDFTask. size = 1, m_nExportTask = 0.
+10:26:42:AddExportPDFTask. i:0, status:-5,downloadstatus:1,ListItem:0,畅洋科技能效管理解决方案
+10:26:42:ExportPdfFile html, taskid = 2, nThreadId = 53, nIndex = 0, m_sPdfFileName = E:\driver\冰点\kpdf\畅洋科技能效管理解决方案.pdf
+10:26:42:ExportPDFFromHTMLCallBack uTaskId = 2, uId = 53, uMsgId = 3473410, res = 0, m_sReaderType=ppt, m_sPdfFileName=E:\driver\冰点\kpdf\畅洋科技能效管理解决方案.pdf
+10:26:44:export end
+10:26:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:26:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:26:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:26:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:26:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:27:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:28:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:29:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:30:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:31:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:32:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:27:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:30:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:33:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:36:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:39:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:42:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:45:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:48:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:51:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:54:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:33:57:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:00:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:03:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:06:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:09:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:12:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:15:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:18:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:21:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:24:AddExportPDFTask. size = 0, m_nExportTask = 0.
+10:34:26:end
