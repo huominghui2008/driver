@@ -21,7 +21,7 @@ password:Wuy_1234
 
 
 商城后台
-https://hngx.wang/admin
+https://shop.517517.cc/admin
 账号：shopadmin
 密码（pre-shop环境）：SYK-Yvr-s67-hvR
 密码（正式环境）：Sh0p.517D@tCC
